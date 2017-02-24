@@ -1,4 +1,5 @@
 # snapsheet-string-utils
+[![npm version](https://badge.fury.io/js/snapsheet-string-utils.svg)](https://badge.fury.io/js/snapsheet-string-utils)
 
 String utils
 
