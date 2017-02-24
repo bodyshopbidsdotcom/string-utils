@@ -28,7 +28,7 @@
     "src/*",
     "src/*/**"
   ],
-  "repository": "git@github.com:bodyshopbidsdotcom/snapsheet-string-utils.git",
+  "repository": "git@github.com:bodyshopbidsdotcom/string-utils.git",
   "author": "Snapsheet Inc.",
   "license": "MIT",
   "devDependencies": {
