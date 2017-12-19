@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import stringUtils from 'snapsheet-string-utils';
+import * as stringUtils from 'snapsheet-string-utils';
 
 const methods = {
   'capitalize': {

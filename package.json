@@ -4,8 +4,7 @@
   "main": "lib/index",
   "jsnext:main": "es6/index",
   "engines": {
-    "node": ">=6.1.0",
-    "yarn": ">=0.18.0"
+    "node": ">=6.1.0"
   },
   "scripts": {
     "build": "npm run build-cjs && npm run build-es6 && rimraf umd && npm run build-umd && npm run build-min",
@@ -51,9 +50,5 @@
     "rimraf": "^2.5.4",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.3.0"
-  },
-  "peerDependencies": {
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
   }
 }
